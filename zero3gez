@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>ZERO3GEZ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1 class="logo animate">ZERO<span>3</span>GEZ</h1>
+  <p class="slogan">اركض بثقة… اختر أسلوب المحترفين</p>
+</header>
+
+<!-- SLIDER -->
+<section class="slider">
+  <img src="https://images.unsplash.com/photo-1554284126-aa88f22d8b74" class="slide active">
+  <img src="https://images.unsplash.com/photo-1526401485004-2fda9f6c7d44" class="slide">
+  <img src="https://images.unsplash.com/photo-1508609349937-5ec4ae374ebf" class="slide">
+</section>
+
+<!-- PRODUCTS -->
+<section class="products">
+  <h2>منتجاتنا</h2>
+
+  <div class="product-card">
+    <img src="https://images.unsplash.com/photo-1528701800489-20be3c6b6c1c">
+    <h3>RUN PRO X</h3>
+    <p>حذاء خفيف، مثالي للجري والسرعة</p>
+    <span>599 درهم</span>
+    <a href="https://wa.me/212600000000" class="btn">اطلب الآن</a>
+  </div>
+
+  <div class="product-card">
+    <img src="https://images.unsplash.com/photo-1600180758890-6b94519a8ba6">
+    <h3>SPORT MAX</h3>
+    <p>ثبات عالي وراحة طويلة</p>
+    <span>649 درهم</span>
+    <a href="https://wa.me/212600000000" class="btn">اطلب الآن</a>
+  </div>
+
+  <div class="product-card">
+    <img src="https://images.unsplash.com/photo-1600185365483-26d7f1c8e7b3">
+    <h3>ZERO SPEED</h3>
+    <p>اختيار العدائين المحترفين</p>
+    <span>699 درهم</span>
+    <a href="https://wa.me/212600000000" class="btn">اطلب الآن</a>
+  </div>
+
+</section>
+
+<!-- COMMENTS -->
+<section class="comments">
+  <h2>تعليقات الزبناء</h2>
+  <textarea placeholder="اكتب رأيك هنا..."></textarea>
+  <button>إرسال</button>
+</section>
+
+<footer>
+  <p>© 2025 ZERO3GEZ - جميع الحقوق محفوظة</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
